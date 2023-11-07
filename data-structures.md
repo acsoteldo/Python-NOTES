@@ -1,5 +1,3 @@
-Certainly! Here's a comprehensive cheat sheet that merges the explanations and examples for data structures and algorithms in Python:
-
 ### Data Structures:
 
 1. **Arrays and Lists:**
