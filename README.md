@@ -23,7 +23,7 @@ Examples:
 ---
 ## Table of Contents
 
-### **1. [Basics](file:basics.md):**
+### **1. [Basics](file://basics.md):**
    - Basic syntax, data types, and variables.
    - Conditional statements (if, elif, else).
    - Loops (for, while).
