@@ -1,6 +1,6 @@
 # Python Cheat Sheet:
 * [Introductory Concepts](file://intro-concepts.md)
-* [Software LyfeCycle](file://software-lifecycle.md)
+* [Software Development Life Cycle](file://software-lifecycle/)
 
 ## Table of Contents
 
