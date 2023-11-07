@@ -6,7 +6,7 @@ There are several Software Development Life Cycle (SDLC) models used in the indu
    - The Waterfall model is a linear and sequential approach where each phase must be completed before the next one begins. It consists of phases like requirements, design, implementation, testing, deployment, and maintenance.
 
 2. **Agile Model**:
-   - Agile is an iterative and flexible approach that emphasizes collaboration, customer feedback, and incremental development. It breaks the project into small iterations or sprints, allowing for adaptive changes.
+   - The Agile method is an iterative and flexible approach to software development that prioritizes collaboration, customer feedback, and incremental progress. It involves breaking a project into smaller, manageable parts called iterations or sprints, where cross-functional teams work collaboratively to deliver functional and valuable product increments. Agile allows for adaptation to changing requirements, promotes continuous improvement, and fosters customer satisfaction through regular, short-term deliverables.
 
 3. **Iterative Model**:
    - The Iterative model involves repeating cycles of development and testing. After each iteration, the product is improved based on feedback. It's similar to Agile but with longer iterations.
