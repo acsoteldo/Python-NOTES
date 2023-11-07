@@ -1,4 +1,4 @@
-# Python Intro Cheat Sheet
+# Python Basics
 
 #### Variables:
 - In Python, you can create variables to store data. Example:
