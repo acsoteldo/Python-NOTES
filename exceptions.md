@@ -1,6 +1,6 @@
 ### **Exception Handling:**
 
-**1. Handling Exceptions Gracefully:**
+**1. Handling Exceptions:**
    - Exception handling in Python allows you to anticipate and deal with errors that may occur during program execution, preventing your program from crashing.
 
    - You can use `try` and `except` to handle exceptions gracefully by specifying code that may raise an exception inside the `try` block and defining how to handle that exception in the `except` block.
