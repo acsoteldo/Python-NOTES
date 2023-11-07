@@ -1,4 +1,4 @@
-# Python Programming Cheat Sheet:
+# Python Cheat Sheet:
 
 ## Table of Contents
 
