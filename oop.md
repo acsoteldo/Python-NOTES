@@ -19,6 +19,7 @@
 - **Superclass/Base Class:** The class from which another class (subclass) inherits.
 - **Subclass/Derived Class:** A class that inherits properties and methods from another class.
 - **Abstraction:** Representing essential features of an object while hiding unnecessary details.
+- **Interfaces:** Blueprint of methods that a class must implement, ensuring a consistent set of behaviors across different classes.
 - **UML (Unified Modeling Language):** A visual representation of classes, objects, relationships, and methods.
 
 **1. Classes and Objects:**
