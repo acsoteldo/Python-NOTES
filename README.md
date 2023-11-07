@@ -1,4 +1,4 @@
-### Python Programming Cheat Sheet:
+# Python Programming Cheat Sheet:
 
 **1. Basics:**
    - Introduction to Python and its use cases.
