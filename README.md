@@ -11,6 +11,7 @@
 * [Automate the Boring Stuff with Python](https://www.amazon.com/Automate-Boring-Stuff-Python-Programming/dp/1593275994)
 * [Clean Code](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
 * [The Algorithm Design Manual](https://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf)
+* [Another python cheat sheet](https://github.com/VedantKhairnar/Cheat-Sheets/tree/master/Python)
   
 ## Table of Contents
 
