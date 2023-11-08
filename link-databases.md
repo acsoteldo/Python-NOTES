@@ -1,6 +1,6 @@
-### **Database Interaction:**
+## **Database Interaction:**
 
-#### Connecting to Databases Using Python:
+### Connecting to Databases Using Python:
    - Install the appropriate database driver for chosen database system (SQL, Excel, etc).
 
 1. **Using pandas for Excel and SQL Interaction:**
