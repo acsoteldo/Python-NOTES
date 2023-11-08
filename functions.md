@@ -1,5 +1,3 @@
-Certainly, let's expand on the section "Functions" in your Python cheat sheet:
-
 ### **Functions:**
 
 **1. Defining and Using Functions:**
