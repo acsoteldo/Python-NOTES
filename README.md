@@ -1,6 +1,7 @@
 # Python Cheat Sheet:
 * [Introductory Concepts](https://github.com/acsoteldo/Python-NOTES/blob/main/intro-concepts.md)
 * [Software Development Life Cycle](https://github.com/acsoteldo/Python-NOTES/blob/main/software-lifecycle/sdlc-description.md)
+* [Python Libraries](https://github.com/acsoteldo/Python-NOTES/blob/main/py-libraries.md)
 
 #### More resources:
 * [W3 Schools](https://www.w3schools.com/)
