@@ -117,5 +117,3 @@
    selection_sort(my_list)
    print(my_list)
    ```
-
-These are the basic sorting algorithms, and understanding them is a good start for a beginner in programming and data science. You can practice implementing these algorithms to deepen your understanding.
