@@ -1,14 +1,14 @@
 ### **Functions:**
 
 **1. Defining and Using Functions:**
-   - **Defining a Function:** To define a function in Python, you use the `def` keyword, followed by the function name and parentheses. The function's code is indented.
+   - **Defining a Function:** To define a function in Python, use the `def` keyword, followed by the function name and parentheses. The function's code is indented.
 
      ```python
      def greet(name):
          return f"Hello, {name}!"
      ```
 
-   - **Calling a Function:** To use a function, you simply call it by its name and provide any required arguments.
+   - **Calling a Function:** To use a function, simply call it by its name and provide any required arguments.
 
      ```python
      message = greet("Alice")
@@ -45,5 +45,3 @@
    - **Common Use Cases:** Lambda functions are commonly used in scenarios where a small, temporary function is needed, such as in sorting lists or as arguments to higher-order functions.
 
    - **Anonymous Functions:** They are called "anonymous" because they don't have a name like regular functions. Instead, they are defined on-the-fly and used immediately.
-
-This section provides a fundamental understanding of functions in Python, how to define them, use parameters, and return values. It also introduces the concept of lambda functions, which can be handy in certain situations when a simple, short function is required.
