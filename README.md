@@ -14,37 +14,37 @@
    - Function parameters and return values.
    - Lambda functions and anonymous functions.
 
-### **3. [Object-Oriented Programming (OOP)]():**
+### **3. [Object-Oriented Programming (OOP)](https://github.com/acsoteldo/Python-NOTES/blob/main/oop.md):**
    - Classes and objects.
    - Inheritance, encapsulation, and polymorphism.
    - Constructors and destructors.
 
-### **4. [Data Structures]():**
+### **4. [Data Structures](https://github.com/acsoteldo/Python-NOTES/blob/main/data-structures/data-structures-notes.md):**
    - Overview of common data structures (arrays, lists, stacks, queues, etc.).
 
-### **5. [Algorithms]():**
+### **5. [Algorithms](https://github.com/acsoteldo/Python-NOTES/blob/main/alg.md):**
    - Introduction to basic algorithms (sorting, searching).
    - Time complexity and Big O notation.
 
-### **6. [Databases]():**
+### **6. [Link Databases](https://github.com/acsoteldo/Python-NOTES/blob/main/link-databases.md):**
    - Connecting to databases using Python.
    - Executing SQL queries and fetching results.
    - Using database libraries like SQLAlchemy.
 
-### **7. [File Handling]():**
+### **7. [File Handling](https://github.com/acsoteldo/Python-NOTES/blob/main/file-handling.md):**
    - Reading and writing files.
    - File modes and operations.
    - Using context managers with "with" statements.
 
-### **8. [Modules and Packages]():**
+### **8. [Modules and Packages](https://github.com/acsoteldo/Python-NOTES/blob/main/modules-packages.md):**
    - Importing and using modules.
    - Creating and organizing Python packages.
    - Understanding namespaces and scope.
 
-### **9. [Exception Handling]():**
+### **9. [Exception Handling](https://github.com/acsoteldo/Python-NOTES/blob/main/exceptions.md):**
    - Handling exceptions gracefully.
    - Custom exception classes.
    - Finally and else clauses.
 
-### **10. [Memory Management]():**
+### **10. [Memory Management](https://github.com/acsoteldo/Python-NOTES/blob/main/memory-management.md):**
    - Circular references and memory leaks.
