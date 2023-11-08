@@ -56,6 +56,7 @@
    }
    bfs(graph, 'A')
    ```
+![Example1](https://github.com/acsoteldo/Python-NOTES/blob/main/algorithms/search-alg.jpeg)
 
 3. **Dijkstra's Algorithm (shortest path):**
 
@@ -96,6 +97,7 @@
    distances = dijkstra(graph, start_node)
    print(distances)
    ```
+![Example2](https://github.com/acsoteldo/Python-NOTES/blob/main/algorithms/dijkstra-alg.png)
 
 4. **Bellman-Ford Algorithm (shortest path with negative weights):**
 
