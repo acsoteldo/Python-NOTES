@@ -2,6 +2,15 @@
 * [Introductory Concepts](https://github.com/acsoteldo/Python-NOTES/blob/main/intro-concepts.md)
 * [Software Development Life Cycle](https://github.com/acsoteldo/Python-NOTES/blob/main/software-lifecycle/sdlc-description.md)
 
+#### More resources:
+* [W3 Schools](https://www.w3schools.com/)
+* [Free Code Camp](https://www.freecodecamp.org/)
+* [Codecademy](https://www.codecademy.com/)
+* [Leetcode](https://leetcode.com/)
+* [Automate the Boring Stuff with Python](https://www.amazon.com/Automate-Boring-Stuff-Python-Programming/dp/1593275994)
+* [Clean Code](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
+* [The Algorithm Design Manual](https://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf)
+  
 ## Table of Contents
 
 ### **1. [Basics](https://github.com/acsoteldo/Python-NOTES/blob/main/basics.md):**
