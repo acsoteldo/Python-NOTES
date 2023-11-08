@@ -2,7 +2,7 @@
 
 1. **Sorting Algorithms:**
    - Sorting arranges elements in a specific order, like ascending or descending.
-   - Common sorting algorithms in Python include `sorted()`, `list.sort()`, and more advanced ones like quicksort and merge sort.
+   - Common sorting algorithms in Python include `sorted()`, `list.sort()`, and more advanced ones like quicksort and merge sort. Explore [more](https://github.com/acsoteldo/Python-NOTES/blob/main/algorithms/sorting-algorithms.md)
    
    ```python
    my_list = [3, 1, 4, 1, 5, 9, 2, 6, 5, 3, 5]
