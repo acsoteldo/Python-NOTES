@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-### **1. [Basics](file://Python-NOTES/basics.md):**
+### **1. [Basics](https://github.com/acsoteldo/Python-NOTES/blob/main/basics.md):**
    - Basic syntax, data types, and variables.
    - Conditional statements (if, elif, else).
    - Loops (for, while).
