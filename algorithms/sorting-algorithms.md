@@ -1,4 +1,5 @@
 ### Sorting Algorithms
+[Visualization video](https://www.youtube.com/watch?v=kPRA0W1kECg)
 
 1. **Quick Sort:**
 
