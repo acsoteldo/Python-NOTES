@@ -185,9 +185,7 @@
        'E': {'B': 7, 'F': 3},
        'F': {'C': 5, 'E': 3}
    }
-   minimum_spanning_tree =
-
- kruskal(graph)
+   minimum_spanning_tree = kruskal(graph)
    print(minimum_spanning_tree)
    ```
 
