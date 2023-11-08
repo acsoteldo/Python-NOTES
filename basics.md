@@ -25,7 +25,7 @@
     ```python
     greeting = "Hello, World"
     ```
-    Learn about [Strings Operations](https://github.com/acsoteldo/Python-NOTES/blob/main/string-operations.md)
+    Explore [Strings Operations](https://github.com/acsoteldo/Python-NOTES/blob/main/string-operations.md)
 
     - **Booleans**: True or False values. Example:
     ```python
@@ -145,7 +145,7 @@
     ```
 
 #### Libraries:
-- You can import libraries/modules to extend Python's functionality. For example, to work with math functions, you can use the `math` library.
+- You can import libraries/modules to extend Python's functionality. For example, to work with math functions, you can use the `math` library. Explore more [Python Libraries](https://github.com/acsoteldo/Python-NOTES/blob/main/py-libraries.md)
     ```python
     import math
 
