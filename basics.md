@@ -25,6 +25,7 @@
     ```python
     greeting = "Hello, World"
     ```
+    Learn about [Strings Operations](https://github.com/acsoteldo/Python-NOTES/blob/main/string-operations.md)
 
     - **Booleans**: True or False values. Example:
     ```python
