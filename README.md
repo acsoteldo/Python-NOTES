@@ -1,5 +1,5 @@
 # Python Cheat Sheet:
-* [Introductory Concepts](file://intro-concepts.md)
+* [Introductory Concepts](https://github.com/acsoteldo/Python-NOTES/blob/main/software-lifecycle/sdlc-description.md)
 * [Software Development Life Cycle](file://software-lifecycle/)
 
 ## Table of Contents
