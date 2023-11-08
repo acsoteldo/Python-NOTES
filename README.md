@@ -32,7 +32,7 @@
 ### **4. [Data Structures](https://github.com/acsoteldo/Python-NOTES/blob/main/data-structures/data-structures-notes.md):**
    - Overview of common data structures (arrays, lists, stacks, queues, etc.).
 
-### **5. [Algorithms](https://github.com/acsoteldo/Python-NOTES/blob/main/alg.md):**
+### **5. [Algorithms](https://github.com/acsoteldo/Python-NOTES/blob/main/algorithms/intro-algorithms.md):**
    - Introduction to basic algorithms (sorting, searching).
    - Time complexity and Big O notation.
 
