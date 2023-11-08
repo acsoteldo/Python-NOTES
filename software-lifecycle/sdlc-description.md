@@ -4,27 +4,30 @@ Each of these SDLC models has its own advantages and drawbacks, and the choice o
 
 1. **Waterfall Model**:
    - The Waterfall model is a linear and sequential approach where each phase must be completed before the next one begins. It consists of phases like requirements, design, implementation, testing, deployment, and maintenance.
+![Alt Text](https://github.com/acsoteldo/Python-NOTES/blob/main/software-lifecycle/waterfall-method.png)
 
 2. **Agile Model**:
    - The Agile method is an iterative and flexible approach to software development that prioritizes collaboration, customer feedback, and incremental progress. It involves breaking a project into smaller, manageable parts called iterations or sprints, where cross-functional teams work collaboratively to deliver functional and valuable product increments. Agile allows for adaptation to changing requirements, promotes continuous improvement, and fosters customer satisfaction through regular, short-term deliverables.
+![Alt Text](https://github.com/acsoteldo/Python-NOTES/blob/main/software-lifecycle/agile-method.png)
 
-3. **Iterative Model**:
+3. **Scrum**:
+   - Scrum is a subset of Agile that uses fixed-length iterations (sprints) to develop a product incrementally. It places a strong emphasis on collaboration and continuous improvement.
+![Alt Text](https://github.com/acsoteldo/Python-NOTES/blob/main/software-lifecycle/scrum-method.jpeg)
+
+4. **Iterative Model**:
    - The Iterative model involves repeating cycles of development and testing. After each iteration, the product is improved based on feedback. It's similar to Agile but with longer iterations.
 
-4. **Spiral Model**:
+5. **Spiral Model**:
    - The Spiral model combines iterative and risk-driven development. It focuses on risk assessment and incorporates multiple cycles of planning, designing, building, and evaluating.
 
-5. **V-Model (Validation and Verification Model)**:
+6. **V-Model (Validation and Verification Model)**:
    - The V-Model is an extension of the Waterfall model that emphasizes testing at each stage of development. It pairs each development phase with its corresponding testing phase.
 
-6. **RAD (Rapid Application Development)**:
+7. **RAD (Rapid Application Development)**:
    - RAD is an incremental and prototyping approach that focuses on rapid development and frequent user feedback. It's particularly useful for applications with a short development timeframe.
 
-7. **Big Bang Model**:
+8. **Big Bang Model**:
    - In the Big Bang model, development starts with very little planning, and the product evolves based on customer feedback. It's a less structured and more experimental approach.
-
-8. **Scrum**:
-   - Scrum is a subset of Agile that uses fixed-length iterations (sprints) to develop a product incrementally. It places a strong emphasis on collaboration and continuous improvement.
 
 9. **Kanban**:
    - Kanban is another Agile approach that focuses on visualizing work and managing it in a flow. It's particularly suited for tasks with a continuous stream of incoming work.
