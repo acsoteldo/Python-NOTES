@@ -41,9 +41,9 @@
      message = my_dog.bark()
      print(message)  # Output: Buddy says Woof!
      ```
-In this example, `Dog` is a class, `my_dog` is an object, and `bark` is a method.
+     In this example, `Dog` is a class, `my_dog` is an object, and `bark` is a method.
 
-     ```python
+      ```python
       class Car:
           def __init__(self, make, model):
               self.make = make
@@ -55,7 +55,7 @@ In this example, `Dog` is a class, `my_dog` is an object, and `bark` is a method
       my_car = Car("Toyota", "Camry")
       print(my_car.start_engine())
       ```
-In this example, `Car` is a class, `my_car` is an object, and `start_engine` is a method.
+      In this example, `Car` is a class, `my_car` is an object, and `start_engine` is a method.
 
 
 **2. Inheritance, Encapsulation, and Polymorphism:**
