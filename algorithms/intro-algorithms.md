@@ -1,4 +1,4 @@
-### Algorithms:
+### Algorithms Introduction:
 
 1. **Sorting Algorithms:**
    - Sorting arranges elements in a specific order, like ascending or descending.
